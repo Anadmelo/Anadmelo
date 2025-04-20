@@ -61,5 +61,5 @@
 <br>
 <br>
 
-<img style="width:500rem" src="Midias/fs2.gif" class="rotate-image">
+<img style="width:200rem" src="Midias/fs2.gif" class="rotate-image">
 
